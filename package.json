@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "hmm just a yarn test",
+  "main": "index.js",
+  "repository": "https://github.com/tango-one/yarn.git",
+  "author": "Tom Ch <tangoone@hotmail.no>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
